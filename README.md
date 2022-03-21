@@ -22,3 +22,4 @@ Wellcome Onboard fellow python coder!! This is a place where you can start your 
 |SR No |Projects  | Author|
 --- | --- | ---|
 |1|Linear Regression|James Leo|
+|2|Logistic Regression|James Leo|
