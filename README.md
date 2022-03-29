@@ -27,4 +27,6 @@ Wellcome Onboard fellow python coder!! This is a place where you can start your 
 |4|Support Vector Machine|James Leo|
 |5|K Nearest Neighbor|James Leo|
 |6|Decision Tree|James Leo|
+|7|Random Forest|James Leo|
+|8|Naive Bayes|James Leo|
 
